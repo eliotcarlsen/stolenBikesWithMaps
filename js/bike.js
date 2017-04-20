@@ -2,10 +2,11 @@ function Bike(){
 }
   var map;
   var addresses = [];
+  var bikes_array = [];
+  var marker;
 Bike.prototype.output = function(location, displayOutput){
 
   $.get('https://bikeindex.org:443/api/v3/search?location=' + location + '&distance=20&stolenness=proximity').then(function(response){
-    var bikes_array = [];
     var time = [];
     response.bikes.forEach(function(bikes) {
       var dateStolen = bikes.date_stolen*1000;
@@ -29,21 +30,45 @@ Bike.prototype.output = function(location, displayOutput){
     });
   }).then(function(){
     var markerArray = [];
+    var a = [];
+    for(var i = 0; i < addresses.length; i++){
+      a.push([addresses[i], bikes_array[i]]);
+    }
 
-    addresses.forEach(function(address){
-      $.get('http://maps.googleapis.com/maps/api/geocode/json?address=' + address).then(function(response){
-        var latitude = response.results[0].geometry.location.lat;
-        var longitude = response.results[0].geometry.location.lng;
-
-
-        var marker = new google.maps.Marker({
-          position: {lat: latitude, lng: longitude},
-          map: map
-        });
-        markerArray.push(marker);
-
+    console.log(a);
+    a.forEach(function(address){
+        $.get('http://maps.googleapis.com/maps/api/geocode/json?address=' + address[0]).then(function(response){
+          var latitude = response.results[0].geometry.location.lat;
+          var longitude = response.results[0].geometry.location.lng;
+          console.log(response);
+          console.log(latitude);
+          console.log(longitude);
+            marker = new google.maps.Marker({
+            position: {lat: latitude, lng: longitude},
+            draggable: true,
+            title: address[1],
+            animation: google.maps.Animation.DROP,
+            map: map
+          });
+          //marker.addListener('click', toggleBounce);
+          markerArray.push(marker);
+          function toggleBounce() {
+          if (marker.getAnimation() !== null) {
+            marker.setAnimation(null);
+          } else {
+            marker.setAnimation(google.maps.Animation.BOUNCE);
+          }
+        }
       });
     });
+    // for(var i = 0; i < bikes_array.length; i++){
+    //   var infowindow = new google.maps.Infowindow({
+    //     content: "<h1>" + bikes_array[i] + "</h1>"
+    //   });
+    // }
+    // google.maps.event.addListener(marker, 'click', function(){
+    //   infowindow.open(map, marker);
+    // });
     for (var i=0; i<markerArray.length; i++){
        markerArray[i].setMap(map);
      }
