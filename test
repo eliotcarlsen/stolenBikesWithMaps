@@ -1,0 +1,433 @@
+{
+  "bikes": [
+    {
+      "id": 115067,
+      "title": "2012 Origin8 cykel",
+      "serial": "Don't have it",
+      "manufacturer_name": "Origin8",
+      "frame_model": "cykel",
+      "year": 2012,
+      "frame_colors": [
+        "Green"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94117",
+      "date_stolen": 1492581600
+    },
+    {
+      "id": 114848,
+      "title": "2013 Marin Bikes Fairfax",
+      "serial": "absent",
+      "manufacturer_name": "Marin Bikes",
+      "frame_model": "Fairfax",
+      "year": 2013,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81841/small_0518131147a.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81841/large_0518131147a.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94118",
+      "date_stolen": 1492405044
+    },
+    {
+      "id": 114817,
+      "title": "Gary Fisher",
+      "serial": "absent",
+      "manufacturer_name": "Gary Fisher",
+      "frame_model": "",
+      "year": null,
+      "frame_colors": [
+        "Silver or Gray"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81761/small_bike2.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81761/large_bike2.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94110",
+      "date_stolen": 1492386063
+    },
+    {
+      "id": 114776,
+      "title": "2016 Specialized Allez",
+      "serial": "WSBC606014740K",
+      "manufacturer_name": "Specialized",
+      "frame_model": "Allez",
+      "year": 2016,
+      "frame_colors": [
+        "White"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94122",
+      "date_stolen": 1492329176
+    },
+    {
+      "id": 114800,
+      "title": "Jamis Ventura Sport",
+      "serial": "U135K11599",
+      "manufacturer_name": "Jamis",
+      "frame_model": "Ventura Sport",
+      "year": null,
+      "frame_colors": [
+        "White"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Berkeley,CA,94702",
+      "date_stolen": 1492322400
+    },
+    {
+      "id": 114773,
+      "title": "2012 Schwinn Voyageur",
+      "serial": "SSNIDC12D05718",
+      "manufacturer_name": "Schwinn",
+      "frame_model": "Voyageur",
+      "year": 2012,
+      "frame_colors": [
+        "Silver or Gray"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81736/small_KAr_vel.JPG",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81736/large_KAr_vel.JPG",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94124",
+      "date_stolen": 1492322400
+    },
+    {
+      "id": 115001,
+      "title": "2017 Surly Crosscheck",
+      "serial": "M15052410",
+      "manufacturer_name": "Surly",
+      "frame_model": "Crosscheck ",
+      "year": 2017,
+      "frame_colors": [
+        "Orange"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81992/small_IMG_0201.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81992/large_IMG_0201.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94110",
+      "date_stolen": 1492322400
+    },
+    {
+      "id": 114857,
+      "title": "2016 Fuji Absolute 2.0 LE",
+      "serial": "SWBD163L0518L",
+      "manufacturer_name": "Fuji",
+      "frame_model": "Absolute 2.0 LE",
+      "year": 2016,
+      "frame_colors": [
+        "Silver or Gray",
+        "Orange",
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81846/small_b3b16c0f9969758a0fa1df4b6903e1de.jpg.max800.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81846/large_b3b16c0f9969758a0fa1df4b6903e1de.jpg.max800.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94158",
+      "date_stolen": 1492322400
+    },
+    {
+      "id": 114774,
+      "title": "Fuji Nevada 1.0",
+      "serial": "absent",
+      "manufacturer_name": "Fuji",
+      "frame_model": "Nevada 1.0",
+      "year": null,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81737/small_VEL_Sasha.JPG",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81737/large_VEL_Sasha.JPG",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94124",
+      "date_stolen": 1492322400
+    },
+    {
+      "id": 114676,
+      "title": "2013 Surly Cross-Check",
+      "serial": "M13032445",
+      "manufacturer_name": "Surly",
+      "frame_model": "Cross-Check",
+      "year": 2013,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81680/small_bikes.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81680/large_bikes.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Oakland,CA,94611",
+      "date_stolen": 1492149600
+    },
+    {
+      "id": 114849,
+      "title": "2015 Xtracycle Edgerunner cargo bike (rear storage)",
+      "serial": "WZ4100086",
+      "manufacturer_name": "Xtracycle",
+      "frame_model": "Edgerunner",
+      "year": 2015,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81842/small_bikxtra_14black.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81842/large_bikxtra_14black.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,94117",
+      "date_stolen": 1492149600
+    },
+    {
+      "id": 114658,
+      "title": "2006 LeMond Racing Cycles Sarthe",
+      "serial": "swl3330405",
+      "manufacturer_name": "LeMond Racing Cycles",
+      "frame_model": "Sarthe",
+      "year": 2006,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81666/small_Screen_Shot_2017-04-14_at_4.26.25_PM.png",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81666/large_Screen_Shot_2017-04-14_at_4.26.25_PM.png",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94110",
+      "date_stolen": 1492149600
+    },
+    {
+      "id": 114605,
+      "title": "2001 Cannondale Jekyll 700",
+      "serial": "543904LI09937",
+      "manufacturer_name": "Cannondale",
+      "frame_model": "Jekyll 700",
+      "year": 2001,
+      "frame_colors": [
+        "Green"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81590/small_medium_Cannondale.jpeg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81590/large_medium_Cannondale.jpeg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94109",
+      "date_stolen": 1492063200
+    },
+    {
+      "id": 114492,
+      "title": "2017 Focus Cayo",
+      "serial": "013526 228660 6A100377 623006203",
+      "manufacturer_name": "Focus",
+      "frame_model": "Cayo",
+      "year": 2017,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA",
+      "date_stolen": 1491976800
+    },
+    {
+      "id": 114477,
+      "title": "Mongoose",
+      "serial": "absent",
+      "manufacturer_name": "Mongoose",
+      "frame_model": "",
+      "year": null,
+      "frame_colors": [
+        "Silver or Gray"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81471/small_2016-09-29_20.01.13.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81471/large_2016-09-29_20.01.13.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Alameda,CA,94501",
+      "date_stolen": 1491890400
+    },
+    {
+      "id": 114473,
+      "title": "Trek Classic Steel Women's",
+      "serial": "WTU239C6123G",
+      "manufacturer_name": "Trek",
+      "frame_model": "Classic Steel Women's",
+      "year": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81464/small_Perrine_s_bike_Photo_-_Trek__-_Date_of_Purchase_8-15-2015.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81464/large_Perrine_s_bike_Photo_-_Trek__-_Date_of_Purchase_8-15-2015.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94103",
+      "date_stolen": 1491890400
+    },
+    {
+      "id": 114429,
+      "title": "2017 Windsor",
+      "serial": "RD347B 8-9N.m",
+      "manufacturer_name": "Windsor",
+      "frame_model": "",
+      "year": 2017,
+      "frame_colors": [
+        "Purple"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81440/small_IMG_3013.JPG",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81440/large_IMG_3013.JPG",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Oakland,CA,94612",
+      "date_stolen": 1491890400
+    },
+    {
+      "id": 114434,
+      "title": "2016 Raleigh Misceo iE",
+      "serial": "U156K26812",
+      "manufacturer_name": "Raleigh",
+      "frame_model": "Misceo iE",
+      "year": 2016,
+      "frame_colors": [
+        "Blue"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Berkeley,94708",
+      "date_stolen": 1491890400
+    },
+    {
+      "id": 114273,
+      "title": "Specialized",
+      "serial": "WSBC602277519i",
+      "manufacturer_name": "Specialized",
+      "frame_model": "",
+      "year": null,
+      "frame_colors": [
+        "Black",
+        "Teal",
+        "White"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Oakland,CA,94609",
+      "date_stolen": 1491852606
+    },
+    {
+      "id": 77502,
+      "title": "2016 Raleigh",
+      "serial": "14-16-3085 888",
+      "manufacturer_name": "Raleigh",
+      "frame_model": "",
+      "year": 2016,
+      "frame_colors": [
+        "Blue"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Oakland,CA,94610",
+      "date_stolen": 1491804000
+    },
+    {
+      "id": 114235,
+      "title": "2008 Scattante Team XLR",
+      "serial": "absent",
+      "manufacturer_name": "Scattante",
+      "frame_model": "Team XLR",
+      "year": 2008,
+      "frame_colors": [
+        "White"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81297/small_410908_10100099333746299_1979788122_o.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81297/large_410908_10100099333746299_1979788122_o.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA",
+      "date_stolen": 1491717600
+    },
+    {
+      "id": 114124,
+      "title": "Specialized Stumpjumper",
+      "serial": "absent",
+      "manufacturer_name": "Specialized",
+      "frame_model": "Stumpjumper",
+      "year": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81181/small_FullSizeRender.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81181/large_FullSizeRender.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA",
+      "date_stolen": 1491700587
+    },
+    {
+      "id": 114352,
+      "title": "2014 Specialized S-Works Tarmac SL4 Dura-Ace",
+      "serial": "WSBC6040041131",
+      "manufacturer_name": "Specialized",
+      "frame_model": "S-Works Tarmac SL4 Dura-Ace",
+      "year": 2014,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81387/small_IMG_0451.JPG",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81387/large_IMG_0451.JPG",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94117",
+      "date_stolen": 1491631200
+    },
+    {
+      "id": 114353,
+      "title": "2014 Specialized Roubaix SL4 Pro Dura Ace",
+      "serial": "WSBC6040374731",
+      "manufacturer_name": "Specialized",
+      "frame_model": "Roubaix SL4 Pro Dura Ace",
+      "year": 2014,
+      "frame_colors": [
+        "Red"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81388/small_00s0s_5N3wkaJXnwt_600x450.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81388/large_00s0s_5N3wkaJXnwt_600x450.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "San Francisco,CA,94117",
+      "date_stolen": 1491631200
+    },
+    {
+      "id": 114323,
+      "title": "Schwinn Caliente",
+      "serial": "2162",
+      "manufacturer_name": "Schwinn",
+      "frame_model": "Caliente",
+      "year": null,
+      "frame_colors": [
+        "Purple"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81364/small_IMG_2377.JPG",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81364/large_IMG_2377.JPG",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Oakland,94606",
+      "date_stolen": 1491458400
+    }
+  ]
+}
