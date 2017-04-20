@@ -61,14 +61,6 @@ Bike.prototype.output = function(location, displayOutput){
         }
       });
     });
-    // for(var i = 0; i < bikes_array.length; i++){
-    //   var infowindow = new google.maps.Infowindow({
-    //     content: "<h1>" + bikes_array[i] + "</h1>"
-    //   });
-    // }
-    // google.maps.event.addListener(marker, 'click', function(){
-    //   infowindow.open(map, marker);
-    // });
     for (var i=0; i<markerArray.length; i++){
        markerArray[i].setMap(map);
      }
